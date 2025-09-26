@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.carlosribeiro.hopefy"
+    namespace = "app.hopefy"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.carlosribeiro.hopefy"
+        applicationId = "app.hopefy"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
